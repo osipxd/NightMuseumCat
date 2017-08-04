@@ -1,0 +1,62 @@
+
+1lvl.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cat
+  rotate: false
+  xy: 335, 926
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+part1
+  rotate: false
+  xy: 0, 3016
+  size: 4096, 1080
+  orig: 4096, 1080
+  offset: 0, 0
+  index: -1
+part2
+  rotate: false
+  xy: 0, 1936
+  size: 4096, 1080
+  orig: 4096, 1080
+  offset: 0, 0
+  index: -1
+something
+  rotate: false
+  xy: 0, 302
+  size: 330, 257
+  orig: 330, 257
+  offset: 0, 0
+  index: -1
+statueBg
+  rotate: false
+  xy: 540, 1317
+  size: 181, 619
+  orig: 181, 619
+  offset: 0, 0
+  index: -1
+statueFg
+  rotate: false
+  xy: 0, 1067
+  size: 540, 869
+  orig: 540, 869
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 721, 1783
+  size: 406, 153
+  orig: 406, 153
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 0, 559
+  size: 335, 508
+  orig: 335, 508
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+level-1.png
+size: 4096, 4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat
+  rotate: false
+  xy: 0, 0
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+level-1
+  rotate: false
+  xy: 0, 1949
+  size: 4096, 1080
+  orig: 4096, 1080
+  offset: 0, 0
+  index: -1
+level-2
+  rotate: false
+  xy: 0, 869
+  size: 4096, 1080
+  orig: 4096, 1080
+  offset: 0, 0
+  index: -1
+something
+  rotate: false
+  xy: 294, 0
+  size: 330, 257
+  orig: 330, 257
+  offset: 0, 0
+  index: -1
+statue-bg
+  rotate: false
+  xy: 113, 0
+  size: 181, 619
+  orig: 181, 619
+  offset: 0, 0
+  index: -1
+statue-fg
+  rotate: false
+  xy: 1365, 0
+  size: 540, 869
+  orig: 540, 869
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 959, 0
+  size: 406, 153
+  orig: 406, 153
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 624, 0
+  size: 335, 508
+  orig: 335, 508
+  offset: 0, 0
+  index: -1
