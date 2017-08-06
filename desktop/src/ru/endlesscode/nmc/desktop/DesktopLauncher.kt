@@ -11,6 +11,7 @@ object DesktopLauncher {
 //        config.setFullscreenMode(displayMode)
         config.setWindowedMode(displayMode.width / 2, displayMode.height / 2)
 //        config.setDecorated(false)
+        config.useVsync(false)
         config.setIdleFPS(60)
         Lwjgl3Application(NightMuseumCat(), config)
     }
