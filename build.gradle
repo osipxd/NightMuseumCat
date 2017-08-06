@@ -21,7 +21,7 @@ allprojects {
     ext {
         appName = "night-museum-cat"
         gdxVersion = '1.9.6'
-        ktxVersion = '1.9.6-b6'
+        ktxVersion = '1.9.6-b7'
         coroutinesVersion = '0.17'
         roboVMVersion = '2.3.1'
         box2DLightsVersion = '1.4'
