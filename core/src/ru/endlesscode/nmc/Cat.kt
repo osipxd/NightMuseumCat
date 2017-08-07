@@ -10,14 +10,14 @@ import ktx.math.times
 
 
 class Cat(x: Float, private val texture: TextureRegion): Actor() {
-    val velocity = Vector2(100f, 0f)
+    val velocity = Vector2()
     val acceleration = Vector2()
 
     init {
         this.x = x
         this.y = 0f
-        this.width = 64f
-        this.height = 80f
+        this.width = texture.regionWidth.toFloat()
+        this.height = texture.regionHeight.toFloat()
     }
 
     override fun act(delta: Float) {
@@ -32,9 +32,9 @@ class Cat(x: Float, private val texture: TextureRegion): Actor() {
         x += velocity.x * delta
         y += velocity.y * delta
 
-        if (x >= stage.width) {
-            x = 0f - width
-        }
+//        if (x >= stage.width) {
+//            x = 0f - width
+//        }
     }
 
     override fun draw(batch: Batch, parentAlpha: Float) {
